@@ -6,7 +6,7 @@ namespace BarsGroup
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test commit");
+            Console.WriteLine("test commit test");
         }
     }
 }
